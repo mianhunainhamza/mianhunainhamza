@@ -20,7 +20,7 @@
 <a href="https://twitter.com/mianhunainhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mianhunainhamza" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mianhunainhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mianhunainhamza" height="30" width="40" /></a>
 <a href="https://fb.com/mianhunainhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mianhunainhamza" height="30" width="40" /></a>
-<a href="https://instagram.com/mianhunainhamzaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mianhunainhamzaa" height="30" width="40" /></a>
+<a href=https://www.instagram.com/mianhunainhamzaa/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mianhunainhamzaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
