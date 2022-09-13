@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [[You can visit github](https://github.com/MIAN-HUNAIN)](You can visit github)
+- 👨‍💻 All of my projects are available at [[Hey Come here...](https://github.com/MIAN-HUNAIN)]
 
 - 💬 Ask me about **Anything**
 
