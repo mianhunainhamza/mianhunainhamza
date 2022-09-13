@@ -1,6 +1,6 @@
 <h1 align="center">اسلام وعلیکم</h1>
 <h1 align="center">👋,Call me.... HONEY</h1>
-<h3 align="center">A passionate frontend developer from PAKISTAN</h3>
+<h3 align="center">A passionate full-stack developer from PAKISTAN</h3>
 
 <p align="left"> <a href="https://twitter.com/mianhunainhamza" target="blank"><img src="https://img.shields.io/twitter/follow/mianhunainhamza?logo=twitter&style=for-the-badge" alt="mianhunainhamza" /></a> </p>
 
