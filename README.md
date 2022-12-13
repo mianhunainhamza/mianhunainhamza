@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [[Let's Go](https://github.com/mianhunainhamza)]
+- 👨‍💻 All of my projects are available at [[Let's Go](https://github.com/mianhunainhamza?tab=repositories)]
 
 - 💬 Ask me about **Anything**
 
