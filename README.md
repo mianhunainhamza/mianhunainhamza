@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **frontend-mentor projects**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👨‍💻 All of my projects are available at [[Let's Go](https://github.com/mianhunainhamza?tab=repositories)]
 
