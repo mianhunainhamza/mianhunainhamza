@@ -8,17 +8,17 @@
 <p align="center"> <a href="https://twitter.com/mianhunainhamza" target="blank"><img src="https://img.shields.io/twitter/follow/mianhunainhamza?logo=twitter&style=for-the-badge" alt="mianhunainhamza" /></a> </p>
 <br/>
 
-- 🔭 I’m currently working on **frontend-mentor projects**
+- 🔭 I’m currently working on **Flutter Development**
 
 - 🌱 I’m currently learning **FLUTTER**
 
-- 👨‍💻 All of my projects are available at [[Let's Go](https://github.com/mianhunainhamza?tab=repositories)]
+- 👨‍💻 All of my projects are available at [[Let's Go](https://vercel.com/dashboard)]
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **mianhunainhamza@gmail.com**
 
-- ⚡ Fun fact **Never Judge me**
+- ⚡ Fun fact **Just A Professional Beginner**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <br/>
