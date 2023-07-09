@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [[Let's Go](https://vercel.com/dashboard)]
 
