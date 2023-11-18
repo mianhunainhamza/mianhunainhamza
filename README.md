@@ -1,4 +1,4 @@
- <img src="https://user-images.githubusercontent.com/105043202/189992284-0179e610-17ff-4f59-85aa-e5166e75ca2e.jpg" style="display: inline-block; margin: 0 auto; width: 200px; height: 300px;" alt="Profile Image">
+ <img src="https://user-images.githubusercontent.com/105043202/189992284-0179e610-17ff-4f59-85aa-e5166e75ca2e.jpg" style="display: inline-block; margin: 0 auto; width: 800px; height: 300px;" alt="Profile Image">
  <h1 align="center">اسلام وعلیکم</h1>
 <h1 align="center">👋,Call me.... HONEY</h1>
 <h3 align="center">A passionate Flutter developer</h3>
