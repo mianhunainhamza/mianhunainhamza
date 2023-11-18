@@ -1,4 +1,6 @@
-![Thumbnail](https://github.com/mianhunainhamza/mianhunainhamza/assets/105043202/e946c59e-5637-4368-8429-700ba71992c8)
+
+![Black Technology LinkedIn Banner](https://github.com/mianhunainhamza/mianhunainhamza/assets/105043202/9774cbd0-19c0-48ae-bf1a-01072acd078a)
+
 <h1 align="center">اسلام وعلیکم</h1>
 <h1 align="center">👋,Call me.... HONEY</h1>
 <h3 align="center">A passionate Flutter developer</h3>
