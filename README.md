@@ -1,14 +1,9 @@
-<img src=https://user-images.githubusercontent.com/105043202/189992284-0179e610-17ff-4f59-85aa-e5166e75ca2e.jpg style="display: inline-block; margin: 0 auto; height=200px"/> <h1 align="center">اسلام وعلیکم</h1>
+![Thumbnail](https://github.com/mianhunainhamza/mianhunainhamza/assets/105043202/a77b0c31-e230-4d3d-80c0-246c661bd952)
+<h1 align="center">اسلام وعلیکم</h1>
 <h1 align="center">👋,Call me.... HONEY</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <br/>
 <br/>
-
-https://github.com/mianhunainhamza/mianhunainhamza/assets/105043202/04766c26-3afa-402a-b132-9f0ba9c5c9d3
-
-
-
-
 <p align="center"> <a href="https://twitter.com/mianhunainhamza" target="blank"><img src="https://img.shields.io/twitter/follow/mianhunainhamza?logo=twitter&style=for-the-badge" alt="mianhunainhamza" /></a> </p>
 <br/>
 
