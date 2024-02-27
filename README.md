@@ -54,6 +54,12 @@
 <br/>
 <br/>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&show_icons=true&locale=en" alt="mian-hunain" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mianhunainhamza&" alt="mian-hunain" /></p>
+<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianhunainhamza&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="mianhunainhamza" /></p>
+
+<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="mianhunainhamza" /></p> 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mianhunainhamza&&theme=github-dark-blue)](https://git.io/streak-stats)
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/mianhunainhamza.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mianhunainhamza&label=Profile%20views&color=0e75b6&style=flat" alt="mianhunainhamza" /> </p>
