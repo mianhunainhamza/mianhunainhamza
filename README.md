@@ -2,7 +2,7 @@
 ![gif](https://github.com/mianhunainhamza/mianhunainhamza/assets/105043202/d360fdf4-d13b-47b7-96b0-600d090454a1)
 
 
-<h1 align="center">printf("اسلام وعلیک");</h1>
+<h1 align="center">printf("السلام عليكم");</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <br/>
 <br/>
