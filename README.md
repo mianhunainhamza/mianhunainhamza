@@ -59,6 +59,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mianhunainhamza&theme=youtube-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mianhunainhamza&theme=youtube-dark)](https://git.io/streak-stats)
 [![committers.top badge](https://user-badge.committers.top/pakistan/mianhunainhamza.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianhunainhamza&label=Profile%20views&color=0e75b6&style=flat" alt="mianhunainhamza" /> </p>
