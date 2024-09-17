@@ -57,6 +57,7 @@
 
 <p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="mianhunainhamza" /></p> 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mianhunainhamza&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mianhunainhamza&&theme=github-dark-blue)](https://git.io/streak-stats)
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/mianhunainhamza.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
