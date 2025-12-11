@@ -101,27 +101,21 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/mianhunainhamza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/mianhunainhamza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhunainhamza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=cmake,html" alt="Top Languages" />
-</a>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&show_icons=true&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhunainhamza&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=cmake,html" />
 
 </div>
 
 <div align="center">
   
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=mianhunainhamza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mianhunainhamza&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mianhunainhamza&theme=tokyo-night&hide_border=true&area=true)
+  
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mianhunainhamza&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 </div>
 
