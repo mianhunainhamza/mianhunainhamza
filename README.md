@@ -102,20 +102,20 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&show_icons=true&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhunainhamza&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=cmake,html" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mianhunainhamza&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianhunainhamza&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=cmake,html" />
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mianhunainhamza&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mianhunainhamza&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mianhunainhamza&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
+
+[![Top Committer Pakistan](https://user-badge.committers.top/pakistan/mianhunainhamza.svg)](https://user-badge.committers.top/pakistan/mianhunainhamza)
 
 </div>
 
