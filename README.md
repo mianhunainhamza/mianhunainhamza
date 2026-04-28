@@ -137,7 +137,7 @@
 
 ### 👨‍💻 Check out my projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-blueviolet?style=for-the-badge&logo=vercel)](https://vercel.com/dashboard)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-blueviolet?style=for-the-badge&logo=vercel)](https://mianhunainhamza.vercel.app)
 
 </div>
 
